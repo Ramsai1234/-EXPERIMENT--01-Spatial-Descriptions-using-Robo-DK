@@ -92,7 +92,7 @@ In this example we used the following robot joint coordinates [0,0,200,180,0,180
 12.	Right click the target and select Teach Current Position (Alt+double click) if a different position needs to be recorded for one of the targets
 13.	Right click the target and select   Target Options… (F3) to open the target options window shown in the next image
 
-![image](https://user-images.githubusercontent.com/36288975/165881167-a0decd4c-3b03-48e2-9dc8-20315799083a.png
+![image](https://user-images.githubusercontent.com/36288975/165881167-a0decd4c-3b03-48e2-9dc8-20315799083a.png)
 
 ### PROGRAM :
 Developed by:P.Ramsai
